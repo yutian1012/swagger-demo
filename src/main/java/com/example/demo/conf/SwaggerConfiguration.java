@@ -26,7 +26,6 @@ public class SwaggerConfiguration {
 		return new ApiInfoBuilder()
 				.title("springboot利用swagger构建api文档")
 				.description("简单优雅的restful风格")
-				//.termsOfServiceUrl("http://blog.csdn.net/saytime")
 				.version("1.0")
 				.build();
 	}
